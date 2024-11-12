@@ -1,0 +1,11 @@
+{
+    "mfcc": -15.667925155315643,
+    "spectral_centroid": 2371.6837782093917,
+    "chroma_stft": 0.33329799259532356,
+    "spectral_bandwidth": 2267.286140296791,
+    "rms": 0.09091660665022382,
+    "zero_crossing_rate": 0.12576183747332514,
+    "brightness": "bright",
+    "noisiness": "noisy",
+    "loudness": "loud"
+}
